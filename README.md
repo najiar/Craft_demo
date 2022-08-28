@@ -1,4 +1,4 @@
-#craft.py / Main file
+<h1>#craft.py / Main file</h1>
 
 #Install the following libraries:
 1. pip install prettytable / To show JSON output in a table format
