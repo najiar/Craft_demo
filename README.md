@@ -38,7 +38,7 @@ Fields that can be updated:
  
  Modified contact = John, sofia, Back-end developer / address is still the same
  
- #test_craft.py / unit tests
+ <h1>#test_craft.py / unit tests</h1>
  
  Functions tested using mock:
  * getGitUser() - when returns true and false
@@ -46,7 +46,7 @@ Fields that can be updated:
  * updateFreshContact - when returns true and false
  
  
-#SQLITE database
+<h1>#SQLITE database</h1>
 The files included in project are: sqlite3.dll and sqlite3.def
 
 The database file: craft.db
