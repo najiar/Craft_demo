@@ -65,7 +65,7 @@ Commands:
 
 Select * from users; / To show the users your looked for from github
 
-If any of the users Fields are = None it means the user didnt specify the information that we are looking for 
+If any of the users fields are = None it means the user didn't specify the information that we are looking for 
 
 
 
