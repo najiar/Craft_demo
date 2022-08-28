@@ -22,6 +22,7 @@ If the domain is correct it will show you information about the new contact adde
 #Updating a contact from FreshDesk contacts list using their ID:
 
 You may comment the the functions getGitUser, addFreshContact and what is also related to them, uncomment the function updateFreshContact from the main function
+
 Fields that can be updated:
  * name
  * address
