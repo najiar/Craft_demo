@@ -54,7 +54,9 @@ The database file: craft.db
 Note!: This files are for windows 64x if you are using any other os check https://www.sqlite.org/download.html and replace the files with the proper ones.
 
 To access the sqlite database using cmd:
+
 cd/project_file
+
 sqlite3 craft.db 
 
 Commands:
