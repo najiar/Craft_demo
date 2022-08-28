@@ -40,6 +40,8 @@ Fields that can be updated:
  
  <h1>#test_craft.py / unit tests</h1>
  
+ python test_craft.py / To run the test file
+ 
  Functions tested using mock:
  * getGitUser() - when returns true and false
  * addFreshContact() - when returns true and false
