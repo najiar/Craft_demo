@@ -60,6 +60,7 @@ cd/project_file
 sqlite3 craft.db 
 
 Commands:
+
 .tables = To show tables / you should see users table
 
 Select * from users; / To show the users your looked for from github
