@@ -28,7 +28,7 @@ Fields that can be updated:
  * address
  * description 
  
- If you choose to update only one or two from the Fields, the third field will remain empty and it will be loaded with the old contact's information
+ If you choose to update only one or two from the Fields, the third field will remain empty and it will be loaded with the old contact's information using a get request
  
  Example: 
  
