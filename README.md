@@ -29,9 +29,13 @@ Fields that can be updated:
  * description 
  
  If you choose to update only one or two from the Fields, the third field will remain empty and it will be loaded with the old contact's information
+ 
  Example: 
+ 
  Already contact = Martin, sofia, a web developer
+ 
  Update function = updateFreshContact(John, '', Back-end developer)
+ 
  Modified contact = John, sofia, Back-end developer / address is still the same
  
  #test_craft.py / unit tests
